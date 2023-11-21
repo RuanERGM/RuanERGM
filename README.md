@@ -9,7 +9,7 @@
 
   <a href="https://github.com/RuanERGM">
   <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=RuanERGM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanERGM&layout=compact&langs_count=9&theme=radical"/>
+  <img height="200em"  width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanERGM&layout=compact&langs_count=9&theme=radical"/>
   
 </div>
 
