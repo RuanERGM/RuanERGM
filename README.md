@@ -1,8 +1,7 @@
 ### Olá! Aqui é o Ruan Eleutério 👋
 
 - Sou um programador que ama o que faz e adora a ideia de desenvolver soluções que possam impactar positivamente a vida de alguém.
-
-
+- 🥇 WWDC23 winner! 
 - 🍎 Trabalho com desenvolvimento iOS
 - 👩🏻‍💻 Estou estudando sobre UIkit, SwiftIU e SpriteKit
 
