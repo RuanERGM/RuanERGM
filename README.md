@@ -1,4 +1,4 @@
-### Oiê! Aqui é o Ruan Eleutério 👋
+### Olá! Aqui é o Ruan Eleutério 👋
 
 - Sou um programador que ama o que faz e adora a ideia de desenvolver soluções que possam impactar positivamente a vida de alguém.
 
